@@ -12022,15 +12022,15 @@
     </message>
     <message>
       <source>Meta msg location. If you support Live Helper Chat JSON syntax you can set location of this response.</source>
-      <translation type="unfinished"/>
+      <translation>元消息位置。如果您支持 Live Helper Chat JSON 语法，您可以设置此响应的位置</translation>
     </message>
     <message>
       <source>If required you can also have condition to check</source>
-      <translation type="unfinished"/>
+      <translation>如果需要，您还可以检查条件</translation>
     </message>
     <message>
       <source>Response Location. It will also fail if attribute is not found.</source>
-      <translation type="unfinished"/>
+      <translation>响应位置。如果找不到属性，它也会失败</translation>
     </message>
     <message>
       <source>Response comparison</source>
@@ -12098,7 +12098,7 @@
     <name>module/fbmessenger</name>
     <message>
       <source>Edit session</source>
-      <translation type="unfinished"/>
+      <translation>编辑会话</translation>
     </message>
     <message>
       <source>Token</source>
@@ -12106,39 +12106,39 @@
     </message>
     <message>
       <source>Device</source>
-      <translation type="unfinished"/>
+      <translation>设备</translation>
     </message>
     <message>
       <source>User ID</source>
-      <translation type="unfinished"/>
+      <translation>用户ID</translation>
     </message>
     <message>
       <source>Status</source>
-      <translation type="unfinished"/>
+      <translation>状态</translation>
     </message>
     <message>
       <source>Last error</source>
-      <translation type="unfinished"/>
+      <translation>最后一个错误</translation>
     </message>
     <message>
       <source>Sessions</source>
-      <translation type="unfinished"/>
+      <translation>会话</translation>
     </message>
     <message>
       <source>Device type</source>
-      <translation type="unfinished"/>
+      <translation>设备类型</translation>
     </message>
     <message>
       <source>User</source>
-      <translation type="unfinished"/>
+      <translation>用户</translation>
     </message>
     <message>
       <source>Created on</source>
-      <translation type="unfinished"/>
+      <translation>创建于</translation>
     </message>
     <message>
       <source>Updated on</source>
-      <translation type="unfinished"/>
+      <translation>更新于</translation>
     </message>
   </context>
   <context>
@@ -12301,7 +12301,7 @@
     </message>
     <message>
       <source>Subject*</source>
-      <translation>主旨*</translation>
+      <translation>主题*</translation>
     </message>
     <message>
       <source>You must provide a subject that is either a mailto: or a URL.</source>
@@ -12356,14 +12356,14 @@
     </message>
     <message>
       <source>Removed paid chat</source>
-      <translation>删除带薪的聊天</translation>
+      <translation>删除付费聊天</translation>
     </message>
   </context>
   <context>
     <name>paidchat/settings</name>
     <message>
       <source>Paid chat settings</source>
-      <translation>Paid chat 设定</translation>
+      <translation>付费聊天设置</translation>
     </message>
     <message>
       <source>Enabled</source>
@@ -12502,7 +12502,7 @@
     <name>permission/newpolicy</name>
     <message>
       <source>New policy</source>
-      <translation>新增 policy</translation>
+      <translation>新策略</translation>
     </message>
     <message>
       <source>Choose a module</source>
@@ -12549,7 +12549,7 @@
     </message>
     <message>
       <source>Policy list</source>
-      <translation>Policy 列表</translation>
+      <translation>策略列表</translation>
     </message>
     <message>
       <source>Module</source>
@@ -12638,11 +12638,11 @@
     </message>
     <message>
       <source>Edit</source>
-      <translation type="unfinished"/>
+      <translation>编辑</translation>
     </message>
     <message>
       <source>Clone</source>
-      <translation type="unfinished"/>
+     <translation>克隆</translation>
     </message>
     <message>
       <source>Delete a role</source>
@@ -12654,7 +12654,7 @@
     </message>
     <message>
       <source>Copy of</source>
-      <translation type="unfinished"/>
+      <translation>备份</translation>
     </message>
     <message>
       <source>System configuration</source>
@@ -12865,11 +12865,11 @@
     </message>
     <message>
       <source>Y</source>
-      <translation>Y</translation>
+      <translation>是</translation>
     </message>
     <message>
       <source>N</source>
-      <translation>N</translation>
+      <translation>否</translation>
     </message>
     <message>
       <source>Edit the question</source>
@@ -13136,139 +13136,139 @@
     <name>statistic/departmentstats</name>
     <message>
       <source>Chats</source>
-      <translation type="unfinished"/>
+      <translation>聊天</translation>
     </message>
     <message>
       <source>Operators</source>
-      <translation type="unfinished"/>
+      <translation>操作员</translation>
     </message>
     <message>
       <source>Chats operators</source>
-      <translation type="unfinished"/>
+     <translation>聊天操作员</translation>
     </message>
     <message>
       <source>Live data</source>
-      <translation type="unfinished"/>
+      <translation>实时数据</translation>
     </message>
     <message>
       <source>active chats</source>
-      <translation type="unfinished"/>
+      <translation>活跃聊天</translation>
     </message>
     <message>
       <source>bot chats</source>
-      <translation type="unfinished"/>
+      <translation>聊天机器人</translation>
     </message>
     <message>
       <source>pending chats</source>
-      <translation type="unfinished"/>
+      <translation>待处理的聊天</translation>
     </message>
     <message>
       <source>in-active chats</source>
-      <translation type="unfinished"/>
+      <translation>不活跃的聊天</translation>
     </message>
     <message>
       <source>Chat is active/pending and user has closed widget or has been redirected to survey</source>
-      <translation type="unfinished"/>
+      <translation>聊天处于活动状态/待处理且用户已关闭小部件或已被重定向到调查</translation>
     </message>
     <message>
       <source>Load statistic</source>
-      <translation type="unfinished"/>
+      <translation>负载统计</translation>
     </message>
     <message>
       <source>soft limit</source>
-      <translation type="unfinished"/>
+      <translation>软限制</translation>
     </message>
     <message>
       <source>Operator is logged to back office during last 10 minutes and is online/offline</source>
-      <translation type="unfinished"/>
+      <translation>操作员在过去 10 分钟内登录到后台并且在线/离线</translation>
     </message>
     <message>
       <source>hard limit</source>
-      <translation type="unfinished"/>
+      <translation>硬限制</translation>
     </message>
     <message>
       <source>Operator is logged to back office during last 10 minutes and is in online status</source>
-      <translation type="unfinished"/>
+      <translation>操作员在过去 10 分钟内登录到后台并处于在线状态</translation>
     </message>
     <message>
       <source>active operators chats</source>
-      <translation type="unfinished"/>
+      <translation>活跃操作员聊天</translation>
     </message>
     <message>
       <source>inactive operators chats</source>
-      <translation type="unfinished"/>
+      <translation>不活跃的操作员聊天</translation>
     </message>
     <message>
       <source>Summary statistic [Hard limit]</source>
-      <translation type="unfinished"/>
+      <translation>汇总统计[硬限制]</translation>
     </message>
     <message>
       <source>Summary statistic [Soft limit]</source>
-      <translation type="unfinished"/>
+      <translation>汇总统计【软限制】</translation>
     </message>
     <message>
       <source>Soft limit. Operator is logged to back office during last 10 minutes and is online/offline.</source>
-      <translation type="unfinished"/>
+      <translation>软限制。操作员在过去 10 分钟内登录到后台并且在线/离线</translation>
     </message>
     <message>
       <source>User ID</source>
-      <translation type="unfinished"/>
+      <translation>用户ID</translation>
     </message>
     <message>
       <source>Max chats</source>
-      <translation type="unfinished"/>
+      <translation>最大聊天</translation>
     </message>
     <message>
       <source>Active chats</source>
-      <translation type="unfinished"/>
+      <translation>活跃聊天</translation>
     </message>
     <message>
       <source>Inactive chats</source>
-      <translation type="unfinished"/>
+      <translation>不活跃的聊天</translation>
     </message>
     <message>
       <source>Online</source>
-      <translation type="unfinished"/>
+      <translation>在线的</translation>
     </message>
     <message>
       <source>Operator active/pending chats</source>
-      <translation type="unfinished"/>
+      <translation>操作员活动/待处理聊天</translation>
     </message>
     <message>
       <source>Edit operator</source>
-      <translation type="unfinished"/>
+      <translation>编辑运算符</translation>
     </message>
     <message>
       <source>Total</source>
-      <translation type="unfinished"/>
+      <translation>总计</translation>
     </message>
     <message>
       <source>No data.</source>
-      <translation type="unfinished"/>
+      <translation>没有数据。</translation>
     </message>
     <message>
       <source>Hard limit. Operator is logged to back office during last 10 minutes and is in online status</source>
-      <translation type="unfinished"/>
+      <translation>硬限制。操作员在过去 10 分钟内登录到后台并处于在线状态</translation>
     </message>
     <message>
       <source>Active chats statistic by operators</source>
-      <translation type="unfinished"/>
+      <translation>运营商的活跃聊天统计</translation>
     </message>
     <message>
       <source>Last activity</source>
-      <translation type="unfinished"/>
+      <translation>上次活动</translation>
     </message>
     <message>
       <source>Offline for</source>
-      <translation type="unfinished"/>
+      <translation>离线</translation>
     </message>
     <message>
       <source>Just now</source>
-      <translation type="unfinished"/>
+      <translation>刚才</translation>
     </message>
     <message>
       <source>Statistic</source>
-      <translation type="unfinished"/>
+      <translation>统计</translation>
     </message>
   </context>
   <context>
@@ -13456,7 +13456,7 @@
     </message>
     <message>
       <source>Maximum number of failed logins before account is disabled.</source>
-      <translation type="unfinished"/>
+      <translation>帐户被禁用前的最大登录失败次数</translation>
     </message>
     <message>
       <source>Uppercase letter required</source>
@@ -13496,7 +13496,7 @@
     </message>
     <message>
       <source>Password changed</source>
-      <translation type="unfinished"/>
+      <translation>密码已更改</translation>
     </message>
     <message>
       <source>Update password</source>
@@ -13664,11 +13664,11 @@
     </message>
     <message>
       <source>Host</source>
-      <translation>Host</translation>
+      <translation>主机</translation>
     </message>
     <message>
       <source>Port</source>
-      <translation>Port</translation>
+      <translation>端口</translation>
     </message>
     <message>
       <source>Re-captcha settings</source>
@@ -13695,11 +13695,11 @@
     </message>
     <message>
       <source>Site key</source>
-      <translation>网站金钥</translation>
+      <translation>网站秘钥</translation>
     </message>
     <message>
       <source>Secret key</source>
-      <translation>秘密金钥</translation>
+      <translation>秘钥</translation>
     </message>
     <message>
       <source>Secret key is not shown!</source>
@@ -13710,7 +13710,7 @@
     <name>lhsystem/singlesetting</name>
     <message>
       <source>Settings</source>
-      <translation type="unfinished"/>
+      <translation>设置</translation>
     </message>
   </context>
   <context>
@@ -13756,7 +13756,7 @@
     </message>
     <message>
       <source>Force user to change password on login</source>
-      <translation type="unfinished"/>
+      <translation>强制用户在登录时更改密码</translation>
     </message>
     <message>
       <source>User receives other operators permissions request</source>
@@ -13780,7 +13780,7 @@
     </message>
     <message>
       <source>User department group</source>
-      <translation type="unfinished"/>
+      <translation>用户部门组</translation>
     </message>
     <message>
       <source>New user</source>
@@ -13804,7 +13804,7 @@
     </message>
     <message>
       <source>Chat nickname</source>
-      <translation>交谈暱称</translation>
+      <translation>交谈昵称</translation>
     </message>
     <message>
       <source>Name</source>
@@ -13866,11 +13866,11 @@
     </message>
     <message>
       <source>Database structure check with local version</source>
-      <translation type="unfinished"/>
+      <translation>使用本地版本检查数据库结构</translation>
     </message>
     <message>
       <source>Database structure check with official version</source>
-      <translation type="unfinished"/>
+      <translation>用正式版检查数据库结构</translation>
     </message>
     <message>
       <source>Your database does not require any updates</source>
@@ -14303,15 +14303,15 @@
     </message>
     <message>
       <source>Automatically accept assigned chats</source>
-      <translation type="unfinished"/>
+      <translation>自动接受分配的聊天</translation>
     </message>
     <message>
       <source>Maximum active chats</source>
-      <translation type="unfinished"/>
+      <translation>最大活动聊天</translation>
     </message>
     <message>
       <source>User can see all pending chats, not only assigned to him</source>
-      <translation type="unfinished"/>
+      <translation>用户可以查看所有待处理的聊天，而不仅仅是分配给他的</translation>
     </message>
     <message>
       <source>Username field not found!</source>
@@ -14382,15 +14382,15 @@
     </message>
     <message>
       <source>Failed login. API</source>
-      <translation type="unfinished"/>
+      <translation>登录失败。API</translation>
     </message>
     <message>
       <source>Account disabled because of to many failed logins!</source>
-      <translation type="unfinished"/>
+      <translation>由于多次登录失败，帐户被禁用！</translation>
     </message>
     <message>
       <source>Failed login. WEB</source>
-      <translation type="unfinished"/>
+      <translation>登录失败。WEB</translation>
     </message>
     <message>
       <source>CSFR token is invalid, try to resubmit form</source>
@@ -14402,7 +14402,7 @@
     </message>
     <message>
       <source>Your account is disabled!</source>
-      <translation type="unfinished"/>
+      <translation>您的帐户已被禁用！</translation>
     </message>
     <message>
       <source>Incorrect username or password</source>
@@ -14410,7 +14410,7 @@
     </message>
     <message>
       <source>Logged in successfully. WEB</source>
-      <translation type="unfinished"/>
+      <translation>登录成功。WEB</translation>
     </message>
     <message>
       <source>Logged in successfully</source>
@@ -14422,7 +14422,7 @@
     </message>
     <message>
       <source>Failed login. XML_CHECK_LOGIN</source>
-      <translation type="unfinished"/>
+      <translation>登录失败。XML_CHECK_LOGIN</translation>
     </message>
   </context>
   <context>
@@ -14464,7 +14464,7 @@
     </message>
     <message>
       <source>Password reminder - new password</source>
-      <translation type="unfinished"/>
+      <translation>密码提醒-新密码</translation>
     </message>
     <message>
       <source>New password:</source>
@@ -14498,98 +14498,98 @@
     <name>voice/configuration</name>
     <message>
       <source>Voice &amp; Video &amp; ScreenShare</source>
-      <translation type="unfinished"/>
+      <translation>语音&amp; 视频&amp; 屏幕分享</translation>
     </message>
     <message>
       <source>Features</source>
-      <translation type="unfinished"/>
+      <translation>特征</translation>
     </message>
     <message>
       <source>Calls enabled</source>
-      <translation type="unfinished"/>
+      <translation>已启用呼叫</translation>
     </message>
     <message>
       <source>Video enabled</source>
-      <translation type="unfinished"/>
+      <translation>视频已启用</translation>
     </message>
     <message>
       <source>ScreenShare enabled</source>
-      <translation type="unfinished"/>
+      <translation>启用屏幕共享</translation>
     </message>
     <message>
       <source>Agora integration</source>
-      <translation type="unfinished"/>
+      <translation>Agora整合</translation>
     </message>
     <message>
       <source>Agora APP ID</source>
-      <translation type="unfinished"/>
+      <translation>Agora APP ID</translation>
     </message>
     <message>
       <source>Agora App Certificate</source>
-      <translation type="unfinished"/>
+      <translation>Agora应用证书</translation>
     </message>
     <message>
       <source>Settings updated</source>
-      <translation type="unfinished"/>
+      <translation>设置更新</translation>
     </message>
   </context>
   <context>
     <name>webhooks/module</name>
     <message>
       <source>Webhooks list</source>
-      <translation type="unfinished"/>
+      <translation>Webhooks 列表</translation>
     </message>
     <message>
       <source>Event</source>
-      <translation type="unfinished"/>
+      <translation>事件</translation>
     </message>
     <message>
       <source>Bot</source>
-      <translation type="unfinished"/>
+      <translation>机器人</translation>
     </message>
     <message>
       <source>Trigger</source>
-      <translation type="unfinished"/>
+      <translation>触发</translation>
     </message>
     <message>
       <source>Enabled</source>
-      <translation type="unfinished"/>
+      <translation>启用</translation>
     </message>
     <message>
       <source>Continuous event</source>
-      <translation type="unfinished"/>
+      <translation>连续事件</translation>
     </message>
     <message>
       <source>Edit</source>
-      <translation type="unfinished"/>
+      <translation>编辑</translation>
     </message>
     <message>
       <source>Incoming webhooks list</source>
-      <translation type="unfinished"/>
+      <translation>传入的 webhook 列表</translation>
     </message>
     <message>
       <source>Name</source>
-      <translation type="unfinished"/>
+      <translation>名称</translation>
     </message>
     <message>
       <source>Identifier</source>
-      <translation type="unfinished"/>
+      <translation>标识符</translation>
     </message>
     <message>
       <source>Disabled</source>
-      <translation type="unfinished"/>
+      <translation>停用</translation>
     </message>
     <message>
       <source>Please choose a bot</source>
-      <translation type="unfinished"/>
+      <translation>请选择机器人</translation>
     </message>
     <message>
       <source>Please choose a trigger</source>
-      <translation type="unfinished"/>
+      <translation>请选择触发器</translation>
     </message>
     <message>
       <source>System configuration</source>
-      <translation type="unfinished"/>
+      <translation>系统配置</translation>
     </message>
     <message>
       <source>Webhooks</source>
@@ -14597,388 +14597,388 @@
     </message>
     <message>
       <source>Incoming webhooks</source>
-      <translation type="unfinished"/>
+      <translation>传入Webhook</translation>
     </message>
     <message>
       <source>New</source>
-      <translation type="unfinished"/>
+      <translation>新</translation>
     </message>
     <message>
       <source>Push chat</source>
-      <translation type="unfinished"/>
+      <translation>推送聊天</translation>
     </message>
   </context>
   <context>
     <name>chat/webhooks</name>
     <message>
       <source>Images</source>
-      <translation type="unfinished"/>
+      <translation>图片</translation>
     </message>
     <message>
       <source>Hooks events</source>
-      <translation type="unfinished"/>
+      <translation>钩子事件</translation>
     </message>
     <message>
       <source>Continuous events</source>
-      <translation type="unfinished"/>
+      <translation>连续事件</translation>
     </message>
     <message>
       <source>This is hook event</source>
-      <translation type="unfinished"/>
+      <translation>这是钩子事件</translation>
     </message>
     <message>
       <source>Event</source>
-      <translation type="unfinished"/>
+      <translation>事件</translation>
     </message>
     <message>
       <source>required if it is hook event</source>
-      <translation type="unfinished"/>
+      <translation>如果是钩子事件，则需要</translation>
     </message>
     <message>
       <source>This is continuous event</source>
-      <translation type="unfinished"/>
+      <translation>这是连续事件</translation>
     </message>
     <message>
       <source>Make sure you define some conditions. Only pending, active and bot chats are checked against these conditions.</source>
-      <translation type="unfinished"/>
+      <translation>确保您定义了一些条件。仅根据这些条件检查待处理、活动和机器人聊天。</translation>
     </message>
     <message>
       <source>Conditions</source>
-      <translation type="unfinished"/>
+      <translation>条件</translation>
     </message>
     <message>
       <source>optional</source>
-      <translation type="unfinished"/>
+      <translation>可选择的</translation>
     </message>
     <message>
       <source>Visitor message contains</source>
-      <translation type="unfinished"/>
+      <translation>访客信息包含</translation>
     </message>
     <message>
       <source>Compare attribute</source>
-      <translation type="unfinished"/>
+      <translation>比较属性</translation>
     </message>
     <message>
       <source>Start of OR</source>
-      <translation type="unfinished"/>
+      <translation>或开始</translation>
     </message>
     <message>
       <source>Attribute</source>
-      <translation type="unfinished"/>
+      <translation>属性</translation>
     </message>
     <message>
       <source>Condition</source>
-      <translation type="unfinished"/>
+      <translation>条件</translation>
     </message>
     <message>
       <source>Empty</source>
-      <translation type="unfinished"/>
+      <translation>空的</translation>
     </message>
     <message>
       <source>Not empty</source>
-      <translation type="unfinished"/>
+      <translation>不是空的</translation>
     </message>
     <message>
       <source>Text like</source>
-      <translation type="unfinished"/>
+      <translation>文字喜欢</translation>
     </message>
     <message>
       <source>Text not like</source>
-      <translation type="unfinished"/>
+      <translation>文字不喜欢</translation>
     </message>
     <message>
       <source>Value</source>
-      <translation type="unfinished"/>
+      <translation>值</translation>
     </message>
     <message>
       <source>OR</source>
-      <translation type="unfinished"/>
+      <translation>或者</translation>
     </message>
     <message>
       <source>AND</source>
-      <translation type="unfinished"/>
+      <translation>而且</translation>
     </message>
     <message>
       <source>Success</source>
-      <translation type="unfinished"/>
+      <translation>成功</translation>
     </message>
     <message>
       <source>Execute if conditions are valid</source>
-      <translation type="unfinished"/>
+      <translation>如果条件有效则执行</translation>
     </message>
     <message>
       <source>required</source>
-      <translation type="unfinished"/>
+      <translation>必须</translation>
     </message>
     <message>
       <source>Execute if conditions are NOT valid</source>
-      <translation type="unfinished"/>
+      <translation>如果条件无效则执行</translation>
     </message>
     <message>
       <source>Name</source>
-      <translation type="unfinished"/>
+      <translation>名称</translation>
     </message>
     <message>
       <source>Identifier</source>
-      <translation type="unfinished"/>
+      <translation>标识符</translation>
     </message>
     <message>
       <source>Scope. This should be the same for all same provider implementations.</source>
-      <translation type="unfinished"/>
+      <translation>范围对于所有相同的提供者实现，这应该是相同的</translation>
     </message>
     <message>
       <source>URL to put in third party Rest API service</source>
-      <translation type="unfinished"/>
+      <translation>用于放置第三方 Rest API 服务的 URL</translation>
     </message>
     <message>
       <source>Show integration information.</source>
-      <translation type="unfinished"/>
+      <translation>显示整合信息</translation>
     </message>
     <message>
       <source>Main attributes</source>
-      <translation type="unfinished"/>
+      <translation>主要属性</translation>
     </message>
     <message>
       <source>Text messages 1</source>
-      <translation type="unfinished"/>
+      <translation>文本信息1</translation>
     </message>
     <message>
       <source>Text messages 2</source>
-      <translation type="unfinished"/>
+      <translation>文本信息2</translation>
     </message>
     <message>
       <source>Text messages 3</source>
-      <translation type="unfinished"/>
+      <translation>文本信息3</translation>
     </message>
     <message>
       <source>Text messages 4</source>
-      <translation type="unfinished"/>
+      <translation>文本信息4</translation>
     </message>
     <message>
       <source>Attachments</source>
-      <translation type="unfinished"/>
+      <translation>附件</translation>
     </message>
     <message>
       <source>Images/Video 1</source>
-      <translation type="unfinished"/>
+      <translation>图像/视频 1</translation>
     </message>
     <message>
       <source>Images/Video 2</source>
-      <translation type="unfinished"/>
+      <translation>图像/视频 2</translation>
     </message>
     <message>
       <source>Images/Video 3</source>
-      <translation type="unfinished"/>
+      <translation>图像/视频 3</translation>
     </message>
     <message>
       <source>Chat options</source>
-      <translation type="unfinished"/>
+      <translation>聊天选项</translation>
     </message>
     <message>
       <source>Attributes</source>
-      <translation type="unfinished"/>
+      <translation>属性</translation>
     </message>
     <message>
       <source>Messages attribute location</source>
-      <translation type="unfinished"/>
+      <translation>消息属性位置</translation>
     </message>
     <message>
       <source>This attribute contains direct message and NOT a messages array</source>
-      <translation type="unfinished"/>
+      <translation>此属性包含直接消息而不是消息数组</translation>
     </message>
     <message>
       <source>Nick</source>
-      <translation type="unfinished"/>
+      <translation>昵称</translation>
     </message>
     <message>
       <source>Phone</source>
-      <translation type="unfinished"/>
+      <translation>电话</translation>
     </message>
     <message>
       <source>IP</source>
-      <translation type="unfinished"/>
+      <translation>IP</translation>
     </message>
     <message>
       <source>E-mail</source>
-      <translation type="unfinished"/>
+      <translation>电子邮件</translation>
     </message>
     <message>
       <source>Time</source>
-      <translation type="unfinished"/>
+      <translation>时间</translation>
     </message>
     <message>
       <source>Chat ID field location</source>
-      <translation type="unfinished"/>
+      <translation>聊天 ID 字段位置</translation>
     </message>
     <message>
       <source>Chat ID Template for manual message sending. Use {chat_id} as placeholder</source>
-      <translation type="unfinished"/>
+      <translation>用于手动发送消息的聊天 ID 模板。使用 {chat_id} 作为占位符</translation>
     </message>
     <message>
       <source>General conditions for messages being processed. These are first level attributes</source>
-      <translation type="unfinished"/>
+      <translation>正在处理的消息的一般条件。这些是一级属性</translation>
     </message>
     <message>
       <source>Message body content</source>
-      <translation type="unfinished"/>
+      <translation>消息正文内容</translation>
     </message>
     <message>
       <source>For message being considered text message should have attribute value equal to</source>
-      <translation type="unfinished"/>
+      <translation>对于被视为文本消息的消息，其属性值应等于</translation>
     </message>
     <message>
       <source>For message being considered bot/operator messages should have attribute value equal to</source>
-      <translation type="unfinished"/>
+      <translation>对于被视为机器人/操作员消息的消息，属性值应等于</translation>
     </message>
     <message>
       <source>Download attachment instead of using external URL</source>
-      <translation type="unfinished"/>
+      <translation>下载附件而不是使用外部 URL</translation>
     </message>
     <message>
       <source>Image body attributes. URL or base64 encoded content</source>
-      <translation type="unfinished"/>
+      <translation>图像主体属性。URL 或 base64 编码的内容</translation>
     </message>
     <message>
       <source>Attribute which holds file name. Optional</source>
-      <translation type="unfinished"/>
+      <translation>保存文件名的属性。可选的</translation>
     </message>
     <message>
       <source>Decode file options</source>
-      <translation type="unfinished"/>
+      <translation>解码文件选项</translation>
     </message>
     <message>
       <source>URL To make request to get content</source>
-      <translation type="unfinished"/>
+      <translation>URL 请求获取内容</translation>
     </message>
     <message>
       <source>Request content</source>
-      <translation type="unfinished"/>
+      <translation>请求内容</translation>
     </message>
     <message>
       <source>Response location</source>
-      <translation type="unfinished"/>
+      <translation>响应位置</translation>
     </message>
     <message>
       <source>For message being considered attachment message should have attribute value equal to</source>
-      <translation type="unfinished"/>
+      <translation>对于被视为附件的消息，消息的属性值应等于</translation>
     </message>
     <message>
       <source>Download image instead of using external URL</source>
-      <translation type="unfinished"/>
+      <translation>下载图片而不是使用外部 URL</translation>
     </message>
     <message>
       <source>For message being considered images message should have attribute value equal to</source>
-      <translation type="unfinished"/>
+      <translation>对于被视为图像的消息，消息的属性值应等于</translation>
     </message>
     <message>
       <source>If previous chat is found and it is closed we should</source>
-      <translation type="unfinished"/>
+      <translation>如果找到之前的聊天并且它已关闭，我们应该</translation>
     </message>
     <message>
       <source>Create a new chat.</source>
-      <translation type="unfinished"/>
+      <translation>创建新聊天</translation>
     </message>
     <message>
       <source>Set previous chat to Pending/Bot depending on department configuration.</source>
-      <translation type="unfinished"/>
+      <translation>根据部门配置将之前的聊天设置为 Pending/Bot</translation>
     </message>
     <message>
       <source>Set as active if operator was assigned. Operator will not be reset.</source>
-      <translation type="unfinished"/>
+      <translation>如果分配了操作员，则设置为活动状态。操作员不会被重置</translation>
     </message>
     <message>
       <source>Operator should be reset if chat being transferred to pending state.</source>
-      <translation type="unfinished"/>
+      <translation>如果聊天被转移到挂起状态，操作员应该被重置</translation>
     </message>
     <message>
       <source>These attributes can be accessed in Rest API. So you would not need to define them there.</source>
-      <translation type="unfinished"/>
+      <translation>这些属性可以在 Rest API 中访问。所以你不需要在那里定义它们</translation>
     </message>
     <message>
       <source>Expected JSON payload for text message.</source>
-      <translation type="unfinished"/>
+      <translation>文本消息的预期 JSON 有效负载</translation>
     </message>
     <message>
       <source>expected message body</source>
-      <translation type="unfinished"/>
+      <translation>预期的消息正文</translation>
     </message>
     <message>
       <source>expected nick</source>
-      <translation type="unfinished"/>
+      <translation>预设昵称</translation>
     </message>
     <message>
       <source>unix timestamp E.g 1504208593</source>
-      <translation type="unfinished"/>
+      <translation>unix 时间戳 例如 1504208593</translation>
     </message>
     <message>
       <source>Unique Chat ID.</source>
-      <translation type="unfinished"/>
+      <translation>唯一聊天ID</translation>
     </message>
   </context>
   <context>
     <name>webhooks/new</name>
     <message>
       <source>New webhook</source>
-      <translation type="unfinished"/>
+      <translation>新webhook</translation>
     </message>
     <message>
       <source>New incoming webhook</source>
-      <translation type="unfinished"/>
+      <translation>新引入的webhook</translation>
     </message>
   </context>
   <context>
     <name>webhook/push</name>
     <message>
       <source>New chat based on incoming webhook</source>
-      <translation type="unfinished"/>
+     <translation>基于传入 webhook 的新聊天</translation>
     </message>
     <message>
       <source>Open in a new window</source>
-      <translation type="unfinished"/>
+      <translation>在新窗口中打开</translation>
     </message>
     <message>
       <source>Open chat</source>
-      <translation type="unfinished"/>
+      <translation>公开聊天</translation>
     </message>
     <message>
       <source>You will initiate chat as it was response to incoming webhook.</source>
-      <translation type="unfinished"/>
+      <translation>您将发起聊天，因为它是对传入 webhook 的响应</translation>
     </message>
     <message>
       <source>Webhook</source>
-      <translation type="unfinished"/>
+      <translation>Webhook</translation>
     </message>
     <message>
       <source>Recipient. (chatId). In most cases it is just a phone number</source>
-      <translation type="unfinished"/>
+      <translation>接受者。（聊天 ID）。在大多数情况下，它只是一个电话号码</translation>
     </message>
     <message>
       <source>Message</source>
-      <translation type="unfinished"/>
+      <translation>消息</translation>
     </message>
     <message>
       <source>Department. If you do not choose one we will use the one defined in webhook.</source>
-      <translation type="unfinished"/>
+      <translation>部门如果您不选择一个，我们将使用webhook中定义的一个。</translation>
     </message>
     <message>
       <source>Create chat</source>
-      <translation type="unfinished"/>
+      <translation>创建聊天</translation>
     </message>
     <message>
       <source>Set created chat status as closed. Visitor reply will initiate chat according to incoming webhook configuration.</source>
-      <translation type="unfinished"/>
+      <translation>将创建的聊天状态设置为关闭。访客回复将根据传入的 webhook 配置发起聊天</translation>
     </message>
     <message>
       <source>Send</source>
-      <translation type="unfinished"/>
+      <translation>发送</translation>
     </message>
     <message>
       <source>Message was send!</source>
-      <translation type="unfinished"/>
+      <translation>消息已发送！</translation>
     </message>
     <message>
       <source>Choose a webhook</source>
-      <translation type="unfinished"/>
+      <translation>选择webhook</translation>
     </message>
   </context>
   <context>
@@ -15032,7 +15032,7 @@
     </message>
     <message>
       <source>Set language based on visitor language. By default we set language by embed code.</source>
-      <translation type="unfinished"/>
+      <translation>根据访客语言设置语言。默认情况下，我们通过嵌入代码设置语言</translation>
     </message>
     <message>
       <source>From name</source>
@@ -15160,11 +15160,11 @@
     <name>chat/chatcommand</name>
     <message>
       <source>Information collected. [baseurl]form/viewcollected/&apos;.$formCollected-&gt;id.&apos;[/baseurl]</source>
-      <translation type="unfinished"/>
+      <translation>收集的信息. [baseurl]form/viewcollected/&apos;.$formCollected-&gt;id.&apos;[/baseurl]</translation>
     </message>
     <message>
       <source>Visitor ID</source>
-      <translation type="unfinished"/>
+      <translation>访客ID</translation>
     </message>
     <message>
       <source>Department</source>
@@ -15172,39 +15172,39 @@
     </message>
     <message>
       <source>Please provide modal URL!</source>
-      <translation type="unfinished"/>
+      <translation>请提供模式URL</translation>
     </message>
     <message>
       <source>We will show a form in a moment!</source>
-      <translation type="unfinished"/>
+      <translation>我们稍后会展示一个表格</translation>
     </message>
     <message>
       <source>Modal activated!</source>
-      <translation type="unfinished"/>
+      <translation>模态激活</translation>
     </message>
     <message>
       <source>was executed</source>
-      <translation type="unfinished"/>
+      <translation>被执行</translation>
     </message>
     <message>
       <source>Assigned trigger could not be found</source>
-      <translation type="unfinished"/>
+      <translation>找不到指定的触发器</translation>
     </message>
     <message>
       <source>Nick changed!</source>
-      <translation>暱称已更改！</translation>
+      <translation>昵称已更改！</translation>
     </message>
     <message>
       <source>Files upload was disabled!</source>
-      <translation type="unfinished"/>
+      <translation>文件上传被禁用</translation>
     </message>
     <message>
       <source>I have enabled files upload for you. [fupload]Upload a file[/fupload].</source>
-      <translation type="unfinished"/>
+      <translation>我已为您启用文件上传. [fupload]上传文件[/fupload].</translation>
     </message>
     <message>
       <source>Files upload enabled.</source>
-      <translation type="unfinished"/>
+      <translation>文件上传已启用</translation>
     </message>
     <message>
       <source>Chat status changed on-hold!</source>
@@ -15300,11 +15300,11 @@
     </message>
     <message>
       <source>Information collected. [baseurl]form/viewcollected/&apos; . $formCollected-&gt;id . &apos;[/baseurl]</source>
-      <translation type="unfinished"/>
+      <translation>收集的信息. [baseurl]form/viewcollected/&apos; . $formCollected-&gt;id . &apos;[/baseurl]</translation>
     </message>
     <message>
       <source>Information collected. Only chat form</source>
-      <translation type="unfinished"/>
+      <translation>收集到的信息。仅聊天表格</translation>
     </message>
   </context>
   <context>
@@ -15323,7 +15323,7 @@
     </message>
     <message>
       <source>has accepted a transferred chat!</source>
-      <translation type="unfinished"/>
+      <translation>已接受转移的聊天</translation>
     </message>
   </context>
   <context>
@@ -15358,7 +15358,7 @@
     </message>
     <message>
       <source>Wait time abandoned</source>
-      <translation type="unfinished"/>
+      <translation>放弃等待时间</translation>
     </message>
     <message>
       <source>Country</source>
@@ -15366,7 +15366,7 @@
     </message>
     <message>
       <source>Country Code</source>
-      <translation type="unfinished"/>
+      <translation>国家代码</translation>
     </message>
     <message>
       <source>City</source>
@@ -15382,7 +15382,7 @@
     </message>
     <message>
       <source>Operator Name</source>
-      <translation type="unfinished"/>
+      <translation>操作员姓名</translation>
     </message>
     <message>
       <source>Department</source>
@@ -15402,7 +15402,7 @@
     </message>
     <message>
       <source>Subjects</source>
-      <translation type="unfinished"/>
+      <translation>主题</translation>
     </message>
     <message>
       <source>Mail send</source>
@@ -15426,35 +15426,35 @@
     </message>
     <message>
       <source>Visitor remarks</source>
-      <translation type="unfinished"/>
+      <translation>访客评论</translation>
     </message>
     <message>
       <source>Device</source>
-      <translation type="unfinished"/>
+      <translation>设备</translation>
     </message>
     <message>
       <source>Visitor ID</source>
-      <translation type="unfinished"/>
+      <translation>访客ID</translation>
     </message>
     <message>
       <source>Duration</source>
-      <translation type="unfinished"/>
+      <translation>期间</translation>
     </message>
     <message>
       <source>Started by</source>
-      <translation type="unfinished"/>
+      <translation>开始于</translation>
     </message>
     <message>
       <source>User agent</source>
-      <translation type="unfinished"/>
+      <translation>用户代理</translation>
     </message>
     <message>
       <source>Browser</source>
-      <translation type="unfinished"/>
+      <translation>浏览器</translation>
     </message>
     <message>
       <source>Platform</source>
-      <translation type="unfinished"/>
+      <translation>平台</translation>
     </message>
     <message>
       <source>User ID</source>
@@ -15462,35 +15462,35 @@
     </message>
     <message>
       <source>Chat start page</source>
-      <translation type="unfinished"/>
+      <translation>聊天起始页</translation>
     </message>
     <message>
       <source>Referer page</source>
-      <translation type="unfinished"/>
+      <translation>推荐人页面</translation>
     </message>
     <message>
       <source>Chat start time</source>
-      <translation type="unfinished"/>
+      <translation>聊天开始时间</translation>
     </message>
     <message>
       <source>Chat end time</source>
-      <translation type="unfinished"/>
+      <translation>聊天结束时间</translation>
     </message>
     <message>
       <source>Is unread by operator</source>
-      <translation type="unfinished"/>
+      <translation>操作员未读</translation>
     </message>
     <message>
       <source>Is unread by visitor</source>
-      <translation type="unfinished"/>
+      <translation>访客未读</translation>
     </message>
     <message>
       <source>Is abandoned</source>
-      <translation type="unfinished"/>
+      <translation>被遗弃</translation>
     </message>
     <message>
       <source>Bot</source>
-      <translation type="unfinished"/>
+      <translation>机器人</translation>
     </message>
     <message>
       <source>Additional data</source>
@@ -15506,63 +15506,63 @@
     </message>
     <message>
       <source>Messages</source>
-      <translation type="unfinished"/>
+      <translation>信息</translation>
     </message>
     <message>
       <source>Visitor messages</source>
-      <translation type="unfinished"/>
+      <translation>访客留言</translation>
     </message>
     <message>
       <source>Bot messages</source>
-      <translation type="unfinished"/>
+      <translation>机器人消息</translation>
     </message>
     <message>
       <source>Operator messages</source>
-      <translation type="unfinished"/>
+      <translation>操作员消息</translation>
     </message>
     <message>
       <source>System messages</source>
-      <translation type="unfinished"/>
+      <translation>系统消息</translation>
     </message>
     <message>
       <source>Visitor messages to bot</source>
-      <translation type="unfinished"/>
+      <translation>给机器人的访客消息</translation>
     </message>
     <message>
       <source>Visitor messages to operator</source>
-      <translation type="unfinished"/>
+      <translation>访客留言给接线员</translation>
     </message>
     <message>
       <source>Maximum agent response time</source>
-      <translation type="unfinished"/>
+      <translation>最大代理响应时间</translation>
     </message>
     <message>
       <source>Maximum bot response time</source>
-      <translation type="unfinished"/>
+      <translation>最长机器人响应时间</translation>
     </message>
     <message>
       <source>Average agent response time</source>
-      <translation type="unfinished"/>
+      <translation>平均代理响应时间</translation>
     </message>
     <message>
       <source>Average bot response time</source>
-      <translation type="unfinished"/>
+      <translation>平均机器人响应时间</translation>
     </message>
     <message>
       <source>First agent response time</source>
-      <translation type="unfinished"/>
+      <translation>第一代理响应时间</translation>
     </message>
     <message>
       <source>First bot response time</source>
-      <translation type="unfinished"/>
+     <translation>首次机器人响应时间</translation>
     </message>
     <message>
       <source>Wait time till first operator message</source>
-      <translation type="unfinished"/>
+      <translation>等待第一条操作员消息的时间</translation>
     </message>
     <message>
       <source>Subject</source>
-      <translation type="unfinished"/>
+      <translation>主题</translation>
     </message>
     <message>
       <source>Chat average in seconds</source>
@@ -15645,11 +15645,11 @@
     </message>
     <message>
       <source>has changed chat status to pending!</source>
-      <translation type="unfinished"/>
+      <translation>已将聊天状态更改为待处理</translation>
     </message>
     <message>
       <source>has changed chat status to bot!</source>
-      <translation type="unfinished"/>
+      <translation>已将聊天状态更改为机器人！</translation>
     </message>
     <message>
       <source>Visitor auto responder was reset because of sync timeout, returned after</source>
@@ -15677,7 +15677,7 @@
     </message>
     <message>
       <source>changed visitor nick from</source>
-      <translation>访客暱称从</translation>
+      <translation>访客昵称从</translation>
     </message>
   </context>
   <context>
@@ -15728,15 +15728,15 @@
     </message>
     <message>
       <source>Please enter a command!</source>
-      <translation type="unfinished"/>
+      <translation>请输入命令！</translation>
     </message>
     <message>
       <source>Please choose a bot!</source>
-      <translation type="unfinished"/>
+      <translation>请选择机器人！</translation>
     </message>
     <message>
       <source>Please choose a trigger!</source>
-      <translation type="unfinished"/>
+      <translation>请选择触发器！</translation>
     </message>
     <message>
       <source>Please enter chat id!</source>
@@ -15762,27 +15762,27 @@
     <name>chat/mobilenotifications</name>
     <message>
       <source>New group message</source>
-      <translation type="unfinished"/>
+      <translation>新建群消息</translation>
     </message>
     <message>
       <source>New message</source>
-      <translation type="unfinished"/>
+      <translation>新消息</translation>
     </message>
     <message>
       <source>Department</source>
-      <translation type="unfinished"/>
+      <translation>部门</translation>
     </message>
     <message>
       <source>Nick</source>
-      <translation type="unfinished"/>
+      <translation>昵称</translation>
     </message>
     <message>
       <source>Transferred chat</source>
-      <translation type="unfinished"/>
+      <translation>转移聊天</translation>
     </message>
     <message>
       <source>New chat</source>
-      <translation type="unfinished"/>
+      <translation>新聊天</translation>
     </message>
   </context>
   <context>
@@ -15797,7 +15797,7 @@
     </message>
     <message>
       <source>Password missing</source>
-      <translation type="unfinished"/>
+      <translation>密码丢失</translation>
     </message>
     <message>
       <source>Wrong email address</source>
@@ -15809,7 +15809,7 @@
     </message>
     <message>
       <source>In order to assign user all departments you have to provide  `departments` and `departments_read` argument.</source>
-      <translation type="unfinished"/>
+      <translation>为了给用户分配所有部门，你必须提供`departments` 和`departments_read` 参数</translation>
     </message>
     <message>
       <source>You have to choose one of required groups!</source>
@@ -15833,11 +15833,11 @@
     </message>
     <message>
       <source>Password has to be at least</source>
-      <translation type="unfinished"/>
+      <translation>密码必须至少为</translation>
     </message>
     <message>
       <source>characters length</source>
-      <translation>字元长度</translation>
+      <translation>字符长度</translation>
     </message>
     <message>
       <source>Password has to have at-least one uppercase letter</source>
@@ -16006,7 +16006,7 @@
     </message>
     <message>
       <source>Commands</source>
-      <translation type="unfinished"/>
+      <translation>命令</translation>
     </message>
     <message>
       <source>Translations groups</source>
@@ -16072,15 +16072,15 @@
     <name>chat/start</name>
     <message>
       <source>Department is required!</source>
-      <translation type="unfinished"/>
+      <translation>部门必填！</translation>
     </message>
     <message>
       <source>Disabled!</source>
-      <translation type="unfinished"/>
+      <translation>停用</translation>
     </message>
     <message>
       <source>Department is disabled!</source>
-      <translation type="unfinished"/>
+      <translation>部门被禁用！</translation>
     </message>
   </context>
   <context>
@@ -16091,15 +16091,15 @@
     </message>
     <message>
       <source>has changed department to</source>
-      <translation type="unfinished"/>
+      <translation>已将部门更改为</translation>
     </message>
     <message>
       <source>from</source>
-      <translation type="unfinished"/>
+      <translation>从</translation>
     </message>
     <message>
       <source>Chat department was changed to</source>
-      <translation type="unfinished"/>
+      <translation>聊天室改为</translation>
     </message>
     <message>
       <source>has changed owner to</source>
@@ -16133,7 +16133,7 @@
     <name>chat/usertyping</name>
     <message>
       <source>is typing...</source>
-      <translation type="unfinished"/>
+      <translation>正在输入...</translation>
     </message>
   </context>
   <context>
@@ -16147,7 +16147,7 @@
     <name>system/settings</name>
     <message>
       <source>System configuration</source>
-      <translation type="unfinished"/>
+      <translation>系统配置</translation>
     </message>
   </context>
   <context>
@@ -16188,7 +16188,7 @@
     </message>
     <message>
       <source>Commands</source>
-      <translation type="unfinished"/>
+      <translation>命令</translation>
     </message>
     <message>
       <source>Exceptions</source>
@@ -16234,33 +16234,33 @@
     <name>mobile/settings</name>
     <message>
       <source>Settings</source>
-      <translation type="unfinished"/>
+      <translation>设置</translation>
     </message>
     <message>
       <source>Sessions</source>
-      <translation type="unfinished"/>
+      <translation>会话</translation>
     </message>
     <message>
       <source>Edit session</source>
-      <translation type="unfinished"/>
+      <translation>编辑会话</translation>
     </message>
     <message>
       <source>Mobile</source>
-      <translation type="unfinished"/>
+      <translation>手机版</translation>
     </message>
   </context>
   <context>
     <name>groupchat/settings</name>
     <message>
       <source>Options</source>
-      <translation type="unfinished"/>
+      <translation>选项</translation>
     </message>
   </context>
   <context>
     <name>mobile/sessions</name>
     <message>
       <source>Sessions</source>
-      <translation type="unfinished"/>
+      <translation>会话</translation>
     </message>
   </context>
   <context>
@@ -16286,7 +16286,7 @@
     </message>
     <message>
       <source>You are a chat owner</source>
-      <translation type="unfinished"/>
+      <translation>你是聊天群主</translation>
     </message>
   </context>
   <context>
@@ -16307,15 +16307,15 @@
     <name>twilio/sendmessage</name>
     <message>
       <source>Please enter chatId!</source>
-      <translation type="unfinished"/>
+      <translation>请输入聊天ID！</translation>
     </message>
     <message>
       <source>Please enter a message!</source>
-      <translation type="unfinished"/>
+      <translation>请输入留言！</translation>
     </message>
     <message>
       <source>Please choose a webhook!</source>
-      <translation type="unfinished"/>
+     <translation>请选择一个webhook！</translation>
     </message>
   </context>
   <context>
@@ -16355,14 +16355,14 @@
     <name>views/view</name>
     <message>
       <source>My views</source>
-      <translation type="unfinished"/>
+      <translation>我的意见</translation>
     </message>
   </context>
   <context>
     <name>chat/abstractclick</name>
     <message>
       <source>Invitation can not be send because online visitor profile can not be found.</source>
-      <translation type="unfinished"/>
+      <translation>由于无法找到在线访客资料，因此无法发送邀请</translation>
     </message>
   </context>
 </TS>
