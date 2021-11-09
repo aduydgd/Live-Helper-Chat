@@ -1,11 +1,7 @@
 Live helper chat
 ==============
 
-It's an open-source powered application, which brings simplicity and usability in one place. With live helper chat you can bring live support on your site for free. http://livehelperchat.com.
-
-[![Apple store](https://livehelperchat.com/design/defaulttheme/images/apps/apple.svg)](https://apps.apple.com/us/app/id1530399116) [![Google Play](https://livehelperchat.com/design/defaulttheme/images/apps/google-play.png?v=2)](https://play.google.com/store/apps/details?id=com.livehelperchat.chat) [![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://marketplace.digitalocean.com/apps/live-helper-chat/?refcode=09c74421e3c2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)
-
-[![Codemagic build status](https://api.codemagic.io/apps/5f50c50be2db272d7690ae45/5f50c50be2db272d7690ae44/status_badge.svg)](https://codemagic.io/apps/5f50c50be2db272d7690ae45/5f50c50be2db272d7690ae44/latest_build)
+它是一个开源的应用程序，它在一个地方带来了简单性和可用性。通过实时助手聊天，您可以在您的网站上免费提供实时支持。
 
 ## Need help?
 * Documentation - https://doc.livehelperchat.com
