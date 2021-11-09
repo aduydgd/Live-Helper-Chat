@@ -1,19 +1,19 @@
-Live helper chat
+Live helper chat完全汉化版
 ==============
 
 它是一个开源的应用程序，它在一个地方带来了简单性和可用性。通过实时助手聊天，您可以在您的网站上免费提供实时支持。
 
-## Need help?
+## 需要帮助?
 * Documentation - https://doc.livehelperchat.com
 * Forum - https://forum.livehelperchat.com/
 * Chat (Discord) https://discord.gg/YsZXQVh
 * [Laravel version of Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat_laravel)
 
-## Demo
+## 演示
 
 http://livehelperchat.com/demo-12c.html
 
-## Integrations
+## 插件
 
  * [Mobile app](https://github.com/LiveHelperChat/lhc_messenger) flutter
  * [Voice & Video & ScreenShare](https://doc.livehelperchat.com/docs/voice-video-screenshare) powered by [agora](https://www.agora.io/en/)
@@ -37,44 +37,44 @@ http://livehelperchat.com/demo-12c.html
  * [Desktop app](https://github.com/LiveHelperChat/electron) written with electron
  * [Sentiment analysis using DeepPavlov](https://github.com/LiveHelperChat/sentiment)
 
-## Quick development guide
- * After app is installed disable cache and enable debug output. 
+## 开发指南
+ * 安装应用程序后禁用缓存并启用调试输出。
    * https://github.com/LiveHelperChat/livehelperchat/blob/master/lhc_web/settings/settings.ini.default.php#L13-L16
-   * Change the following values to
+   * 将以下值更改为
     ```
     * debug_output => true
    * templatecache => false
    * templatecompile => false
    * modulecompile => false
    ```
- * To compile JS from lhc_web folder execute. This will compile main JS and old widget javascript files.
+ * 要编译lhc_web文件夹中的JS，请执行。这将编译主JS和旧的小工具javascript文件。
    * `npm install && gulp`
- * To compile new widget V2
+ * 编译新的widget V2
    * There is two apps [wrapper](https://github.com/LiveHelperChat/livehelperchat/tree/master/lhc_web/design/defaulttheme/widget/wrapper) and [widget](https://github.com/LiveHelperChat/livehelperchat/tree/master/lhc_web/design/defaulttheme/widget/react-app)
    * `cd lhc_web/design/defaulttheme/widget/wrapper && npm install && npm run build`
    * `cd lhc_web/design/defaulttheme/widget/react-app && npm install && npm run build && npm run build-ie`
- * Recompile static JS/CSS files. This is required if you change core JS files. It also avoids missing CSS/JS files if more than one server is used.
+ * 重新编译静态JS/CSS文件。如果你改变了核心JS文件，就需要这样做。如果使用了不止一个服务器，它还可以避免丢失CSS/JS文件。
    * `php cron.php -s site_admin -c cron/util/generate_css -p 1 && gulp js-static`
 
-## Extensions
+## 扩展
 https://github.com/LiveHelperChat
 
-## Translations contribution
+## 翻译贡献
 https://www.transifex.com/projects/p/live-helper-chat/
 
-## Folders structure
+## 文件夹结构
 
  * Directories content:
   * lhc_web - WEB application folder.
  
-## Features
+## 特点
 
-Few main features
+几个主要特点
 
- * [Bot](https://doc.livehelperchat.com/docs/how-to-use-bot) with possibility to integrate any third party AI
- * XMPP support for notifications about new chats. (IPhone, IPad, Android, Blackberry, GTalk etc...)
- * Chrome extension
- * Repeatable sound notifications
+ * [Bot](https://doc.livehelperchat.com/docs/how-to-use-bot) 可以集成任何第三方人工智能
+ * XMPP 支持有关新聊天的通知. (IPhone, IPad, Android, Blackberry, GTalk etc...)
+ * Chrome 扩展程序
+ * 可重复的声音通知
  * Work hours
  * See what user see with screenshot feature
  * Drag & Drop widgets, minimize/maximize widgets
